@@ -29,7 +29,6 @@
 
 <a href="https://my-portfolio-f8f4c.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-myPortfolioWebApp-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/umair-ul-islam-a4ba63209/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Umairulislam-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/umairulislam22/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Umairulislam-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:umairulislam09@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-umairulislam09-blue?style=flat-square&logo=gmail"></a>
 
 
