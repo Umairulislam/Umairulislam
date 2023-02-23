@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; I'm a front-end developer with a passion for exploring new technologies and learning new skills..
 - 🎓 &nbsp; Studying Computer System Engineering from DUET.
-- ✍️ &nbsp; Currently working on blockchain.
+- ✍️ &nbsp; Currently working on Ethereum Blockchain.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
