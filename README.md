@@ -1,12 +1,12 @@
 
 
-<h2> Hey there! I'm Umair ul islam.</h2>
+<h2> Hi there! I'm Umair Ul Islam.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm a front-end developer with a passion for exploring new technologies and learning new skills..
-- 🎓 &nbsp; Computer Systems Engineer from DUET.
-- ✍️ &nbsp; Currently working on Ethereum Blockchain.
+- 🤔 &nbsp; Certified **Meta** Frontend Developer with a passion for exploring new technologies and learning new skills.
+- 🎓 &nbsp; Computer Systems Engineer Graduated from DUET.
+- ✍ &nbsp; Currently working on Ethereum Blockchain.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -33,8 +33,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://devportfolio24.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-myPortfolioWebApp-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://devportfolio24.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-DevPortfolio-blue?style=flat-square&logo=google-chrome"></a>
+
 <a href="https://www.linkedin.com/in/umair-ul-islam-a4ba63209/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Umairulislam-blue?style=flat-square&logo=linkedin"></a>
+
 <a href="mailto:umairulislam09@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-umairulislam09-blue?style=flat-square&logo=gmail"></a>
 
 
