@@ -30,6 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 
 <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umairulislam)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
