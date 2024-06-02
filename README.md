@@ -1,6 +1,6 @@
 # Hi there, I'm Umair Ul Islam 👋
 
-<!-- ![Header](https://github.com/[username]/[repository]/path/to/header-image.png) -->
+![Header](./images/cover.png)
 
 ## 🙋‍♂️ About Me
 
@@ -54,4 +54,4 @@ I'm a Computer System Engineer and Certified Meta Frontend Developer passionate 
 
 ## 📧 Contact Me
 
-You can reach me at umairulislam09@com or through any of my social profiles listed above.
+You can reach me at umairulislam09@gmail.com or through any of my social profiles listed above.
