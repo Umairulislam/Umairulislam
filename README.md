@@ -1,6 +1,6 @@
 # Hi there, I'm Umair Ul Islam 👋
 
-![Header](./images/cover.png)
+![Header](./images/bg-cover.png)
 
 ## 🙋‍♂️ About Me
 
