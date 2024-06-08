@@ -4,11 +4,14 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Computer System Engineer and Certified Meta Frontend Developer passionate about crafting engaging and user-friendly web applications. With experience in both frontend and backend technologies, I continuously strive to expand my skill set.
-
-- 🌱 Currently learning Backend Development
-- 📫 How to reach me: umairulislam09@gmail.com
-- ⚡ Fun fact: I am a good player of table tennis
+- 🎓 Computer System Engineer with a passion for web development.
+- 🏆 Certified Meta Frontend Developer.
+- 🌐 Skilled in both frontend and backend technologies.
+- 💡 Enjoys creating engaging and user-friendly web applications.
+- 🔗 Knowledgeable in Ethereum blockchain and Web3 technologies.
+- 🚀 Continuously expanding my skill set.
+- 📘 Currently learning Backend Development.
+- 📧 Reach me at: engr.umairulislam@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -54,4 +57,4 @@ I'm a Computer System Engineer and Certified Meta Frontend Developer passionate 
 
 ## 📧 Contact Me
 
-You can reach me at umairulislam09@gmail.com or through any of my social profiles listed above.
+You can reach me at engr.umairulislam@gmail.com or through any of my social profiles listed above.
