@@ -1,6 +1,6 @@
 # Hi there, I'm Umair Ul Islam 👋
 
-![Header](./images/bg-cover.png)
+![Header](./images/cover.png)
 
 ## 🙋‍♂️ About Me
 
@@ -31,6 +31,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5a29e4?style=flat&logo=axios&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-474a8a?style=flat&logo=ejs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
