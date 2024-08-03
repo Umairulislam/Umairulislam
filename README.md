@@ -71,7 +71,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://devportfolio24.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Umairulislam)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21021068/umair-ul-islam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/umairulislam24)
+[![X](https://img.shields.io/badge/Umair%20Ul%20Islam-000000?style=flat&logo=x&logoColor=white)](https://x.com/EngrUmair24)
 
 ## 📧 Contact Me
 
