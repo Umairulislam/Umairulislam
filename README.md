@@ -63,6 +63,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umairulislam)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21021068/engr-umair-ul-isam)
 
-## 📧 Contact Me
+<!-- ## 📧 Contact Me
 
-You can reach me at engrumairulislam@gmail.com or through any of my social profiles listed above.
+You can reach me at engrumairulislam@gmail.com or through any of my social profiles listed above. -->
