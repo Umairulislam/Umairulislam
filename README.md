@@ -2,16 +2,29 @@
 
 ![Header](./images/profile-banner.png)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Computer+Systems+Engineer;Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 🙋‍♂️ About Me
 
-- 🎓 Computer System Engineer with a passion for web development.
-- 🏆 Certified Meta Frontend Developer.
-- 🌐 Skilled in both frontend and backend technologies.
-- 💡 Enjoys creating engaging and user-friendly web applications.
-- 🔗 Knowledgeable in Ethereum blockchain and Web3 technologies.
-- 🚀 Continuously expanding my skill set.
-- 📘 Currently learning Backend Development.
-- 📧 Reach me at: engr.umairulislam@gmail.com
+I'm a **Computer Systems Engineering graduate** with a passion for building **modern, responsive web applications**.  
+I’ve completed the **Meta Front-End Developer Professional Certificate** on Coursera along with several other courses (see my [portfolio](https://engrumairulislam.netlify.app/#certifications)), constantly improving my skills to stay ahead in the fast-evolving tech world.
+
+💻 I specialise in:
+
+- **Front-End Development** with React & Next.js
+- **Modern UI Design** using Tailwind CSS & Material UI
+- **TypeScript** for type safety & robust code
+- **Testing** with unit and integration tests to ensure smooth performance
+
+✨ My goal is to create **clean, scalable, and fully responsive** apps that look and work great on any device.
+
+📩 **Let’s connect** — if you’ve got an idea or want to collaborate, reach out via the [Contact](https://engrumairulislam.netlify.app/#contact) section of my portfolio.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -44,28 +57,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-<!-- ### Web3 & Blockchain
-
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-%23E2761B.svg?style=flat&logo=MetaMask&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=black)
-![Alchemy](https://img.shields.io/badge/-Alchemy-3C3C3D?style=flat&logo=alchemy&logoColor=white) -->
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umairulislam&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairulislam&layout=compact&theme=radical)
 
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-umair-ul-islam-a4ba63209/)
-[![Portofolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://engrumairulislam.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umairulislam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://engrumairulislam.netlify.app)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21021068/engr-umair-ul-isam)
 [![X (Twitter)](<https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/umairulislam_24)
-
-<!-- ## 📧 Contact Me
-
-You can reach me at engrumairulislam@gmail.com or through any of my social profiles listed above. -->
