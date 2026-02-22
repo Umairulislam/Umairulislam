@@ -66,4 +66,4 @@ I’ve completed the **Meta Front-End Developer Professional Certificate** on Co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-umair-ul-islam-a4ba63209/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://engrumairulislam.netlify.app)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21021068/engr-umair-ul-isam)
-[![X (Twitter)](<https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/umairulislam_24)
+[![X (Twitter)](<https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/engr_umairislam)
