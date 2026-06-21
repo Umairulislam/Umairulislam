@@ -4,25 +4,38 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Computer+Systems+Engineer;Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Fast%2C+Accessible+Web+Apps;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/engr-umair-ul-islam-a4ba63209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://engrumairulislam.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21021068/engr-umair-ul-isam"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://x.com/engr_umairislam"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+---
+
 ## 🙋‍♂️ About Me
 
-I'm a **Computer Systems Engineering graduate** with a passion for building **modern, responsive web applications**.  
-I’ve completed the **Meta Front-End Developer Professional Certificate** on Coursera along with several other courses (see my [portfolio](https://engrumairulislam.netlify.app/#certifications)), constantly improving my skills to stay ahead in the fast-evolving tech world.
+I'm a **Computer Systems Engineering graduate** and **Frontend Developer** with **1.5+ years of experience** building fast, responsive, and accessible web applications using **React**, **Next.js**, and **TypeScript**.
+
+I hold the **Meta Front-End Developer Professional Certificate** from Coursera, along with several other certifications (see my [portfolio](https://engrumairulislam.netlify.app/#certifications)), and I'm constantly sharpening my skills to keep pace with the fast-evolving web ecosystem.
 
 💻 I specialise in:
 
-- **Front-End Development** with React & Next.js
-- **Modern UI Design** using Tailwind CSS & Material UI
-- **TypeScript** for type safety & robust code
-- **Testing** with unit and integration tests to ensure smooth performance
+- 🏗️ **Frontend Architecture** with React, Next.js & TypeScript
+- 🎨 **Modern UI Engineering** using Tailwind CSS, Material UI & Shadcn UI
+- 🔄 **State Management** with Redux Toolkit, RTK Query & Zustand
+- ♿ **Accessibility & ADA Compliance** to build apps that work for everyone
+- 🌐 **CMS Development** with custom WordPress themes
 
-✨ My goal is to create **clean, scalable, and fully responsive** apps that look and work great on any device.
+✨ My goal is to build **clean, scalable, and fully responsive** applications that look and perform great on any device.
 
-📩 **Let’s connect** — if you’ve got an idea or want to collaborate, reach out via the [Contact](https://engrumairulislam.netlify.app/#contact) section of my portfolio.
+📩 Have an idea or want to collaborate? Reach out via the [Contact](https://engrumairulislam.netlify.app/#contact) section of my portfolio.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -40,12 +53,19 @@ I’ve completed the **Meta Front-End Developer Professional Certificate** on Co
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### State Management & Forms
+
+![Redux](https://img.shields.io/badge/-Redux--Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-474a8a?style=for-the-badge&logo=ejs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -56,14 +76,30 @@ I’ve completed the **Meta Front-End Developer Professional Certificate** on Co
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umairulislam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairulislam&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umairulislam&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umairulislam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umairulislam&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-umair-ul-islam-a4ba63209/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://engrumairulislam.netlify.app)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21021068/engr-umair-ul-isam)
-[![X (Twitter)](<https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/engr_umairislam)
+<p align="center">
+  <a href="https://www.linkedin.com/in/engr-umair-ul-islam-a4ba63209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://engrumairulislam.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21021068/engr-umair-ul-isam"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://x.com/engr_umairislam"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>⭐️ Thanks for stopping by — check out my pinned repos below to see what I've been building!</i>
+</p>
